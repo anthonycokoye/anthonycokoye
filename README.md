@@ -44,10 +44,6 @@ Here are some of the projects I have worked on:
 I have contributed to various publications and obtained certifications in the field of data science. You can find more details on my [LinkedIn](https://www.linkedin.com/in/anthonycokoye/) profile.
 
 
-### My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dub-em&layout=compact&theme=dark&background=000000)](https://github.com/anthonycokoye/github-readme-stats)
-
-
 ### Contact Me
 
 Feel free to reach out to me through the following channels:
