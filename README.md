@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
-## About Me
+### About Me
 
 - 🔭 My current area of specialization is Data Science and Deep Learning/Neural Networks, which I'm studying as part of my master's degree program at The George Washington University.
 - 🌱 I'm dedicating my efforts to exploring the influence of Ethical/Responsible AI in mitigating biases found in data and algorithms.
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I enjoy reading, writing, and following baseball and soccer.
 
 
-## Skills and Tools
+### Skills and Tools
 
 - Programming Languages: Python, R
 - Databases: MySQL, Oracle SQL
@@ -25,7 +25,7 @@
 - Big Data: Apache Spark, Databricks
 
 
-## Projects
+### Projects
 
 Here are some of the projects I have worked on:
 
@@ -39,12 +39,16 @@ Here are some of the projects I have worked on:
    - Implemented One Hot Encoding (OHE) to transform categorical data, enabling effective analysis and addressing SMART questions.
 
 
-## Publications and Certifications
+### Publications and Certifications
 
 I have contributed to various publications and obtained certifications in the field of data science. You can find more details on my [LinkedIn](https://www.linkedin.com/in/anthonycokoye/) profile.
 
 
-## Contact Me
+### My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dub-em&layout=compact&theme=dark&background=000000)](https://github.com/anthonycokoye/github-readme-stats)
+
+
+### Contact Me
 
 Feel free to reach out to me through the following channels:
 
