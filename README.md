@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
+
 ### About Me
 
 - 🔭 My current area of specialization is Data Science and Deep Learning/Neural Networks, which I'm studying as part of my master's degree program at The George Washington University.
@@ -49,7 +50,7 @@ I have contributed to various publications and obtained certifications in the fi
 Feel free to reach out to me through the following channels:
 
 - Email: [anthonycokoye@gmail.com](mailto:anthonycokoye@gmail.com)
-- LinkedIn: [Anthony C.Okoye](https://www.linkedin.com/in/anthonycokoye/)
+- LinkedIn: [Anthony C. Okoye](https://www.linkedin.com/in/anthonycokoye/)
 - Twitter: [@anthonycmokoye](https://twitter.com/anthonycmokoye)
 
 I'm open to collaborations, discussions, and exploring exciting opportunities in the field of data science. Let's connect and make an impact together!
