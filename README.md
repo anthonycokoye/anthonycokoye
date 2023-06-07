@@ -18,10 +18,10 @@
 
 - Programming Languages: Python, R
 - Databases: MySQL, Oracle SQL
-- Libraries and Frameworks: NumPy, TensorFlow, PyTorch, Tableau
-- Viz Platforms: Tableau, Power BI, Microsoft PowerPoint
+- Libraries and Frameworks: NumPy, TensorFlow, PyTorch
+- Viz Platforms: Tableau, Power BI, MS PowerPoint
 - Operating Systems: Windows, Linux
-- Tools: VS Code, Git, Google Colab, Jupyter
+- Tools: VS Code, Git, Jupyter
 - Cloud Platforms: AWS, GCP
 - Big Data: Apache Spark, Databricks
 
