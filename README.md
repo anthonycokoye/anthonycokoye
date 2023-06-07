@@ -1,11 +1,9 @@
-# Welcome to My GitHub Repository!
-
-## About Me
-
 <h2>
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
+
+## About Me
 
 - 🔭 My current area of specialization is Data Science and Deep Learning/Neural Networks, which I'm studying as part of my master's degree program at The George Washington University.
 - 🌱 I'm dedicating my efforts to exploring the influence of Ethical/Responsible AI in mitigating biases found in data and algorithms.
