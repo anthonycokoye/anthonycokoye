@@ -11,15 +11,15 @@
 - 👯 I'm enthusiastic about teaming up with professionals involved in the data value chain to work on projects with social impact.
 - 🤔 Actively searching for resources that can augment my knowledge in my current areas of focus and help me enhance my productivity.
 - 💬 Ask me about the illogicality of sports finances or unsustainable environmental practices.
-- ⚡ Fun fact: I enjoy reading, writing, and I follow five different sports leagues across four continents - EPL, NRL, IPL, MLB, and NBA.
+- ⚡ Fun fact: I enjoy reading, and writing. As a sports enthusiast, I follow the EPL, MLB, and NFL.
 
 
 ### Skills and Tools
 
-- Programming Languages: Python, R
+- Programming Languages: Python, R, SQL
 - Databases: MySQL, Oracle SQL
 - Libraries and Frameworks: NumPy, TensorFlow, PyTorch
-- Viz Platforms: Tableau, Power BI, MS PowerPoint
+- Viz Platforms: Tableau, Power BI, Gephi, MS PowerPoint
 - Operating Systems: Windows, Linux
 - Tools: VS Code, Git, Jupyter
 - Cloud Platforms: AWS, GCP
@@ -50,8 +50,7 @@ I have contributed to various publications and obtained certifications in the fi
 Feel free to reach out to me through the following channels:
 
 - Email: [anthonycokoye@gmail.com](mailto:anthonycokoye@gmail.com)
-- LinkedIn: [Anthony C. Okoye](https://www.linkedin.com/in/anthonycokoye/)
-- Twitter: [@anthonycmokoye](https://twitter.com/anthonycmokoye)
+- LinkedIn: [Anthony Okoye](https://www.linkedin.com/in/anthonycokoye/)
 
 I'm open to collaborations, discussions, and exploring exciting opportunities in the field of data science. Let's connect and make an impact together!
 
