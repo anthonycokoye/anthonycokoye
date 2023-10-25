@@ -22,8 +22,8 @@
 - Viz Platforms: Tableau, Power BI, Gephi, MS PowerPoint
 - Operating Systems: Windows, Linux
 - Tools: VS Code, Git, Jupyter
-- Cloud Platforms: AWS, GCP
-- Big Data: Apache Spark, Databricks
+- Cloud Platforms: AWS, GCP, Azure
+- Big Data: Apache Spark
 
 
 ### Projects
