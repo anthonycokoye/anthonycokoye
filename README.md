@@ -42,7 +42,7 @@ Here are some of the projects I have worked on:
 
 ### Publications and Certifications
 
-I have contributed to various publications and obtained certifications in the field of data science. You can find more details on my [LinkedIn](https://www.linkedin.com/in/anthonycokoye/) profile.
+I have contributed to various publications and obtained certifications in the field of data science. You can find more details on my [LinkedIn](https://www.linkedin.com/in/anthonycokoye/) profile and read my perspectives on Technology, Energy, and Sports on [Medium](https://medium.com/@anthonycokoye/).
 
 
 ### Contact Me
@@ -51,6 +51,7 @@ Feel free to reach out to me through the following channels:
 
 - Email: [anthonycokoye@gmail.com](mailto:anthonycokoye@gmail.com)
 - LinkedIn: [Anthony Okoye](https://www.linkedin.com/in/anthonycokoye/)
+- Medium: [Anthony Okoye](https://medium.com/@anthonycokoye/)
 
 I'm open to collaborations, discussions, and exploring exciting opportunities in the field of data science. Let's connect and make an impact together!
 
