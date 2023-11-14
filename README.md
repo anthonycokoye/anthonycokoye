@@ -11,7 +11,7 @@
 - 👯 I'm enthusiastic about teaming up with professionals involved in the data value chain to work on projects with social impact.
 - 🤔 Actively searching for resources that can augment my knowledge in my current areas of focus and help me enhance my productivity.
 - 💬 Ask me about the illogicality of sports finances or unsustainable environmental practices.
-- ⚡ Fun fact: I enjoy reading, and writing. As a sports enthusiast, I follow the EPL, MLB, and NFL.
+- ⚡ Fun fact: I enjoy reading, and writing. As a sports enthusiast, I follow the EPL, MLB, and F1.
 
 
 ### Skills and Tools
